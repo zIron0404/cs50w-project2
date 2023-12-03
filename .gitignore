@@ -1,0 +1,7 @@
+*.cache
+*.dll
+*.exe
+*.bat
+flask_session/
+__pycache__/
+**/.vscode/
